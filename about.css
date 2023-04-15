@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+   
+}
+
+#header-title-about {
+    background-color: #7b4ee4;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.Our-Mission{
+    text-align: center;
+    font-size: 30px;
+    color: #7b4ee4;
+}
+
+h1 {
+    margin: 0;
+    font-size: 36px;
+}
+
+.container {
+    max-width: 960px;
+    margin: 15px auto;
+    padding: 20px;
+
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+/* li:before {
+    content: "\2022";
+    color: #333;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+} */
+
